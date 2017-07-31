@@ -2,6 +2,8 @@
 
 # This repositiry is protected by Apache License 2.0
 
+# Contributors: @vdkamdar and @shahnish009
+
 Sensors used: GPS sensor, Capacitive sensor
 Services: Geofence service, Maps API, Places API
 Tools: Android Studio
